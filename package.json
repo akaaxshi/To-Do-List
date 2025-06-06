@@ -1,0 +1,17 @@
+{
+  "name": "to-do-list",
+  "productName": "To-Do-list",
+  "version": "1.0.0",
+  "description": "To do list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Arpita Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "electron":"^21.0.1",
+    "to-do": "2.0.0",
+    "toastify-js": "1.12.0"
+  }
+}
